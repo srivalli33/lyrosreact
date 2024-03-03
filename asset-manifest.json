@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lyrosreact/static/css/main.e6c13ad2.css",
+    "main.js": "/lyrosreact/static/js/main.733f875d.js",
+    "index.html": "/lyrosreact/index.html",
+    "main.e6c13ad2.css.map": "/lyrosreact/static/css/main.e6c13ad2.css.map",
+    "main.733f875d.js.map": "/lyrosreact/static/js/main.733f875d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.733f875d.js"
+  ]
+}
