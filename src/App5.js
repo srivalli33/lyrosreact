@@ -6,6 +6,7 @@ export default function App5() {
     {id:1,name:"Product 1",price:440},
     {id:2,name:"Product 2",price:560},
     {id:2,name:"Product 3",price:500},
+    {id:2,name:"Product 4",price:100},
   ]
   return (
     <ul>
