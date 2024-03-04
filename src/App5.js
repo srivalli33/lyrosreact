@@ -17,6 +17,7 @@ export default function App5() {
             <img src={e.image} />
           </div>
           <div>{e.name}</div>
+          <div>{e.price}</div>
         </div>
       ))}
     </div>
