@@ -14,7 +14,7 @@ export default function App5() {
       {products.map((e) => (
         <div key={e.id}>
           <div>
-            <img src={e.image} />
+            <img src={e.image} alt={e.name} />
           </div>
           <div>{e.name}</div>
           <div>{e.price}</div>
