@@ -12,7 +12,12 @@ export default function App5() {
   return (
     <div>
       {products.map((e) => (
-        <div key={e.id}><img src={e.image}/></div>
+        <div key={e.id}>
+          <div>
+            <img src={e.image} />
+          </div>
+          <div>{e.name}</div>
+        </div>
       ))}
     </div>
   );
