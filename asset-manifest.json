@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/lyrosreact/static/css/main.e6c13ad2.css",
-    "main.js": "/lyrosreact/static/js/main.51bd05ea.js",
+    "main.js": "/lyrosreact/static/js/main.b18fc7d8.js",
     "index.html": "/lyrosreact/index.html",
     "main.e6c13ad2.css.map": "/lyrosreact/static/css/main.e6c13ad2.css.map",
-    "main.51bd05ea.js.map": "/lyrosreact/static/js/main.51bd05ea.js.map"
+    "main.b18fc7d8.js.map": "/lyrosreact/static/js/main.b18fc7d8.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.51bd05ea.js"
+    "static/js/main.b18fc7d8.js"
   ]
 }
