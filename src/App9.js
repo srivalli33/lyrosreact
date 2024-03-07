@@ -6,7 +6,7 @@ export default function App9() {
   const f1 = () => {
     let i;
     for (i = 0; i < flag ** 2; i++) {}
-    console.log("result function called");
+    console.log("f1 function called");
     return i;
   };
     const result = useMemo(() => f1(), [flag]);
