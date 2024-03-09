@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import App16 from "./App16";
+import App18 from "./App18";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <>
-    <App16 />
+    <App18 />
   </>
 );
